@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\bin\Debug\net6.0-windows\boy-kilo-kütleindeksi-1575.exe
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\bin\Debug\net6.0-windows\boy-kilo-kütleindeksi-1575.deps.json
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\bin\Debug\net6.0-windows\boy-kilo-kütleindeksi-1575.runtimeconfig.json
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\bin\Debug\net6.0-windows\boy-kilo-kütleindeksi-1575.dll
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\bin\Debug\net6.0-windows\boy-kilo-kütleindeksi-1575.pdb
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\obj\Debug\net6.0-windows\boy_kilo_kütleindeksi_1575.Form1.resources
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\obj\Debug\net6.0-windows\boy-kilo-kütleindeksi-1575.csproj.GenerateResource.cache
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\obj\Debug\net6.0-windows\boy-kilo-kütleindeksi-1575.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\obj\Debug\net6.0-windows\boy-kilo-kütleindeksi-1575.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\obj\Debug\net6.0-windows\boy-kilo-kütleindeksi-1575.AssemblyInfo.cs
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\obj\Debug\net6.0-windows\boy-kilo-kütleindeksi-1575.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\obj\Debug\net6.0-windows\boy-kilo-kütleindeksi-1575.dll
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\obj\Debug\net6.0-windows\refint\boy-kilo-kütleindeksi-1575.dll
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\obj\Debug\net6.0-windows\boy-kilo-kütleindeksi-1575.pdb
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\obj\Debug\net6.0-windows\boy-kilo-kütleindeksi-1575.genruntimeconfig.cache
+C:\Users\user\Desktop\nursevim\C#\boy-kilo-kütleindeksi-1575\boy-kilo-kütleindeksi-1575\obj\Debug\net6.0-windows\ref\boy-kilo-kütleindeksi-1575.dll
